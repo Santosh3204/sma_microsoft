@@ -28,3 +28,5 @@ print(total_df)
 total_df.plot()
 
 plt.show()
+
+#changes mage to san1
