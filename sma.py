@@ -29,5 +29,5 @@ total_df.plot()
 
 plt.show()
 
-#changes mage to san1
+#totally changed to san1
 #changes made to san2
